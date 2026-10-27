@@ -8,7 +8,7 @@ Kullanıcıların seyahat rotalarını inceleyebileceği, popüler destinasyonla
 • Responsive CSS (responsive.css): Sitenin tüm mobil, tablet ve masaüstü cihazlarda kusursuz görünmesi için.
 💡 Bu süreçte neler öğrendim?
 • Medya Sorguları (Media Queries): Farklı ekran boyutlarına göre responsive.css dosyası üzerinden esnek mizanpajlar (Flexbox/Grid) kurarak web sitelerinin mobil uyumluluğunu en üst seviyeye çıkarmayı deneyimledim.
-• Dosya Düzeni ve Optimizasyon: Projedeki görselleri (images klasörü) ve stil dosyalarını düzenli bir mimaride tutarak kodun okunabilirliğini ve projenin sürdürülebilirliğini artırdım.
+• Dosya Düzeni ve Optimizasyon: Projedeki görselleri (images klasörü) ve stil dosyalarını düzenli bir mimaride tutarak kodun okunabilirliğini ve projenin sürdürülebilirliğini arttırdım.
 • Kullanıcı Arayüzü (UI) Pratikleri: Kullanıcıların seyahat içeriklerini rahatça inceleyebilmesi için tipografi, buton yerleşimleri ve renk kontrastları üzerinde pratik yaptım.
 🔗 Projeyi görüntülemek için:
 GitHub: https://github.com/emine07/travel-website
